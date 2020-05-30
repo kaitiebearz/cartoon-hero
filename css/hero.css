@@ -1,0 +1,84 @@
+body {
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   line-height: 30px;
+}
+
+header {
+    background-color: deeppink;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1, h2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+    color: deeppink;
+}
+
+header h1{
+    color: #9F078D;
+    font-size: 100px;
+}
+
+header img{
+    border-radius: 100%;
+     width: 150px;
+    border: 20px solid #F0E20B;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 75px;
+    color: deeppink;
+    margin: 40px 0 10px;
+}
+
+p{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+a{
+    color: #9F078D;
+}
+a:hover{
+    color: deeppink;
+    background-color: yellow;
+}
+
+footer{
+    background-color: deeppink;
+    text-align: center;
+    color: yellow;
+    padding: 25px;
+}
+
+footer p{
+    margin:0;
+}
+
+p.caption{
+    color:purple;
+    font-style: italic;
+    margin-top: 0;
+}
