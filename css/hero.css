@@ -18,6 +18,8 @@ h1, h2{
     color: deeppink;
 }
 
+/* header styles */
+
 header h1{
     color: #9F078D;
     font-size: 100px;
@@ -52,10 +54,12 @@ p{
 
 ol{
     font-size: 25px;
+    list-style: none;
 }
 
 ul{
     font-size: 25px;
+    list-style: none;
 }
 
 a{
